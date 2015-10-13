@@ -1,0 +1,9 @@
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\bin\Debug\gamep176-2ndtry.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\bin\Debug\gamep176-2ndtry.exe
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\bin\Debug\gamep176-2ndtry.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176-2ndtry.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176_2ndtry.Form1.resources
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176_2ndtry.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176-2ndtry.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176-2ndtry.exe
+c:\users\sergio\documents\visual studio 2015\Projects\gamep176-2ndtry\gamep176-2ndtry\obj\Debug\gamep176-2ndtry.pdb
